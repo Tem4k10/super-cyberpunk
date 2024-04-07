@@ -1,0 +1,164 @@
+body {
+    margin: 0 auto;
+    font-family: 'Outfit', sans-serif;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+}
+
+
+
+.text-p {
+    font-weight: 1000;
+
+}
+
+
+
+
+
+
+
+
+.text-p {
+    font-weight: 1000;
+
+}
+
+
+
+
+.header {
+    background-color: rgb(83, 146, 218);
+    display: flex;
+    justify-content: space-between;
+
+}
+
+span {
+    color: blue;
+}
+
+span {
+    color: blue;
+}
+
+.hero-logo {
+    width: 380px;
+    height: 74px;
+}
+
+.wrapper_logo {
+    display: flex;
+    margin-left: 300px;
+    align-items: center;
+}
+
+.hero-section {
+    background-image: url(./new-img/background.png);
+    background-repeat: no-repeat;
+    height: 640px;
+
+}
+
+.section-2 {
+    text-align: center;
+}
+
+.section-3 {
+    display: flex;
+    width: 300px;
+    height: 430px;
+}
+
+
+.cube-text {
+    position: absolute;
+    width: 320px;
+    z-index: 10;
+    top: 465px;
+    right: 140px;
+    font-size: 30px;
+    font-weight: 900;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.section2_text {
+    margin-top: 40px;
+    margin-bottom: 10px;
+
+}
+
+.cube-button {
+    width: 272px;
+    height: 78px;
+    font-size: 33;
+    background-color: black;
+    color: goldenrod;
+    position: absolute;
+    top: 610px;
+    right: 190px;
+    z-index: 10;
+    font-family: 'Outfit', sans-serif;
+    letter-spacing: 2px;
+    font-weight: 700;
+}
+
+.img-logo {
+    width: 30px;
+    height: 30px;
+    margin-left: 30px;
+}
+
+.section2 {
+    width: 500px;
+    padding: 0 20px;
+
+}
+
+a {
+    text-decoration: none;
+    text-transform: uppercase;
+
+}
+
+a:hover {
+    color: yellow;
+
+}
+
+a:visited {
+    color: yellow;
+
+}
+
+a:active {
+    color: yellow;
+
+}
+
+.rectangle {
+    Width: 450px;
+    position: absolute;
+    top: 448px;
+    right: 45px;
+    z-index: 0;
+}
+
+footer {
+
+    text-align: center;
+    background-color: #840000;
+    color: blueviolet;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.section-3 {
+    margin-top: 50px;
+    margin-bottom: 25px;
+    margin-bottom: 25px;
+}
